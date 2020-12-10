@@ -1,9 +1,10 @@
 # TWIST Web Project
 
-This Github repository will contain all of the files necessary to build/run the TWIST website including both the database and the user interface.
+This is a forked version of a group repository for my personal use/adjustment.
 
-**DO NOT DIRECTLY COMMIT TO MAIN**  
-This can cause problems with code that has been verified to work. Instead, you can create a branch off of the main to add or test new code. Once done, you can create a pull request and pull it back into the main branch.
+Any changes made will be posted to this readme below.
+
+Changes:
 
 ## Running the Project Locally
 
